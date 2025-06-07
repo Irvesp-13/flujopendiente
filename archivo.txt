@@ -1,3 +1,4 @@
 [1] Primera linea del archivo
 [1] Cambio de user1
 [2] Cambio de user1
+[1] Primer cambio de user2
